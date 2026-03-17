@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/peasy-image.svg)](https://rubygems.org/gems/peasy-image)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://agentgif.com/badge/github/peasytools/peasy-image-rb/stars.svg)](https://github.com/peasytools/peasy-image-rb)
 
 Ruby client for the [PeasyImage](https://peasyimage.com) API — compress, resize, convert, and crop images. Zero dependencies beyond Ruby stdlib (Net::HTTP, JSON, URI).
 
